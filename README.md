@@ -1,8 +1,6 @@
-👋 Hi, I’m @michelebastione.
-
-   I'm a mathematics student and Python hobbyist, I try to create pretty much anything that goes through my mind.
-   
-   Reach me at michele.bastione@gmail.com if you want to collaborate on any of my projects.
+Michele Bastione
+Mathematics student and Python hobbyist, I like to create any random project that crosses my mind.
+✉ michele.bastione@gmail.com
 
 <!---
 michelebastione/michelebastione is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
